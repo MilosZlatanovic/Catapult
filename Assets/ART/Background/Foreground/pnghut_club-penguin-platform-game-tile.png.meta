@@ -1,0 +1,370 @@
+fileFormatVersion: 2
+guid: 3358dffc68be6ce4ebb1f12bd7bc60c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6495784282618388631
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_0
+  - first:
+      213: 3800139164872405521
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_1
+  - first:
+      213: -7759056558039013239
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_2
+  - first:
+      213: 6339193916633979613
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_3
+  - first:
+      213: 3520178781802965456
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_4
+  - first:
+      213: -4113899886868070664
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_5
+  - first:
+      213: 4240397429493201753
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_6
+  - first:
+      213: -7378840326705473206
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_7
+  - first:
+      213: 847448589359414671
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_8
+  - first:
+      213: 7498660060995124531
+    second: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 543
+        width: 359
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790e80f8369a52a50800000000000000
+      internalID: 6495784282618388631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_1
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 543
+        width: 239
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112f44bbf6eccb430800000000000000
+      internalID: 3800139164872405521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 806
+        width: 120
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886be17b2b425490800000000000000
+      internalID: -7759056558039013239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 806
+        width: 122
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda194bd74759f750800000000000000
+      internalID: 6339193916633979613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_4
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 542
+        width: 120
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9ab3b83ff2ad030800000000000000
+      internalID: 3520178781802965456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 362
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe75b969dd78e6c0800000000000000
+      internalID: -4113899886868070664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 60
+        width: 239
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bfb6bdefae8da30800000000000000
+      internalID: 4240397429493201753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 323
+        width: 120
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49946051d7199990800000000000000
+      internalID: -7378840326705473206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_8
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 323
+        width: 122
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d7c26800eb2cb00800000000000000
+      internalID: 847448589359414671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_club-penguin-platform-game-tile-based-video-2d-computer-graphics-opengameart-org-flooring-stone_wk6kwEd06p_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 59
+        width: 121
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33df50b8897901860800000000000000
+      internalID: 7498660060995124531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

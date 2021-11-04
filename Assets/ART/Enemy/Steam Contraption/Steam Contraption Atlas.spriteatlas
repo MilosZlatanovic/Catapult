@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Steam Contraption Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ca9e6b2dcce8d724590c43e698a36e2d, type: 3}
+    - {fileID: 102900000, guid: 835f2d85b46617c4d9e34d175a47478c, type: 3}
+    - {fileID: 102900000, guid: 59b5d0bb66df1b34d9c4dc05005640f5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1767b1006dbd6924986518873eab5aad, type: 3}
+  - {fileID: 21300000, guid: c753da701b166fb4799453a3ccc82fa3, type: 3}
+  - {fileID: 21300000, guid: 4bd384a0fdedb5d4c8f7e3b627f030a7, type: 3}
+  - {fileID: 21300000, guid: e86507a0a32a728428c3be465d8e126b, type: 3}
+  - {fileID: 21300000, guid: 3fefe3813cab1bb459ee5ab83f95570e, type: 3}
+  - {fileID: 21300000, guid: 202cf3817fa83934a948ae5b6cf384b4, type: 3}
+  - {fileID: 21300000, guid: 728d1ba116755e94fa13c262058e67fb, type: 3}
+  - {fileID: 21300000, guid: 27491fa169b994f4e8b18c79736025d0, type: 3}
+  - {fileID: 21300000, guid: 92a6e5b12ccaad5478b451049a72e603, type: 3}
+  - {fileID: 21300000, guid: 0fdd3c32f79223d469924b3127f9ce1f, type: 3}
+  - {fileID: 21300000, guid: 8aa9226275fccc54790c16211a7b439c, type: 3}
+  - {fileID: 21300000, guid: 62835ad2a7c606d40a705d5b2d7c9891, type: 3}
+  - {fileID: 21300000, guid: ca095603c32992747a57134ab64dd522, type: 3}
+  - {fileID: 21300000, guid: 84b2822363fbf0c4f9273ef5c9cd270b, type: 3}
+  - {fileID: 21300000, guid: dddc9c633a8570c499fcc3d799461059, type: 3}
+  - {fileID: 21300000, guid: db9f6483bb1dfc94ab89e022c607e7ef, type: 3}
+  - {fileID: 21300000, guid: cfbbb7b37ed9a9546b3b4444aa7e4747, type: 3}
+  - {fileID: 21300000, guid: 611aa7e39fdfa8e46b6529c2031f92f1, type: 3}
+  - {fileID: 21300000, guid: bdebed0449469e4469c74101483ca6f3, type: 3}
+  - {fileID: 21300000, guid: a0d70074fbc0c4f4685bd1917f04fe21, type: 3}
+  - {fileID: 21300000, guid: 990b9b84533dc984496e5d8960444c4e, type: 3}
+  - {fileID: 21300000, guid: 7b859094bf44b6a459a2bfe7463c826b, type: 3}
+  - {fileID: 21300000, guid: 9568bab42989c1c4286f178d1634f32b, type: 3}
+  - {fileID: 21300000, guid: 0adee2b5251ebcb43b585a462d5dd655, type: 3}
+  - {fileID: 21300000, guid: 00d11f26b82ca7d46bf8bda9561a2d1a, type: 3}
+  - {fileID: 21300000, guid: 43dcd4d66c9cdfc49bb06111bfad5c4d, type: 3}
+  - {fileID: 21300000, guid: 000ded871d351b64ca87d8e27d1dc5c1, type: 3}
+  - {fileID: 21300000, guid: 33e199b777807de48bd8a16bf459f0a6, type: 3}
+  - {fileID: 21300000, guid: e7b57cd77f814b84cbe364f914aadc71, type: 3}
+  - {fileID: 21300000, guid: 61b2aff79b285c9498f1e12fd88a1a08, type: 3}
+  - {fileID: 21300000, guid: e9dcc9786255e164ab684dda7577dd46, type: 3}
+  - {fileID: 21300000, guid: 544ac188fc7c9ca438540360994ab7f8, type: 3}
+  - {fileID: 21300000, guid: 9b0313b8464b7af4589a2b88e1def9d1, type: 3}
+  - {fileID: 21300000, guid: fed2b4c8192d9fc42a704a6511591b06, type: 3}
+  - {fileID: 21300000, guid: ee5ef7e8e9f816946aa23e5bcd7ffd96, type: 3}
+  - {fileID: 21300000, guid: 2d59f51939a1fe640a00445f3499b6fa, type: 3}
+  - {fileID: 21300000, guid: a534cd59fbf199d45bcef471db720375, type: 3}
+  - {fileID: 21300000, guid: e38fdd9957497a84491ddefb00e0f5d4, type: 3}
+  - {fileID: 21300000, guid: 96d6b6f9946c6394ebf0ed8be2ae8059, type: 3}
+  - {fileID: 21300000, guid: 5771152ab6e142247bad8d93b9973eb7, type: 3}
+  - {fileID: 21300000, guid: 5a79e75a493993342a5cea50b48c2f20, type: 3}
+  - {fileID: 21300000, guid: b575ffba63eec92428a8ff9791be4ab6, type: 3}
+  - {fileID: 21300000, guid: 3d2a513b93b4a2e4bb26e72bab7c46a1, type: 3}
+  - {fileID: 21300000, guid: 451bc25b09ae8fc4b9bf66fc1361bf59, type: 3}
+  - {fileID: 21300000, guid: 69bc716bc2ae8564d85df23839e82a3b, type: 3}
+  - {fileID: 21300000, guid: 2f77358b76cf17545975568991ca8fed, type: 3}
+  - {fileID: 21300000, guid: 100b259bf76f3d845ab0ca1640f4f198, type: 3}
+  - {fileID: 21300000, guid: 0fdf04eb2ca7d2640898427f3a398fcb, type: 3}
+  - {fileID: 21300000, guid: 9b84a70c155797e43982891acffdb0c4, type: 3}
+  - {fileID: 21300000, guid: 49cdb3bc948940148957adffa8626bc5, type: 3}
+  - {fileID: 21300000, guid: 23f364fd1f970f242b7a795f83afbef3, type: 3}
+  - {fileID: 21300000, guid: 023f3c8e8133efc498c18af70c34d710, type: 3}
+  - {fileID: 21300000, guid: fe03b5cefbee63446b1daec473011512, type: 3}
+  - {fileID: 21300000, guid: 1cbda2fe90f23934384421b699d6af7c, type: 3}
+  - {fileID: 21300000, guid: 9d02ab5f787aa0440aeb0e41507d5ea4, type: 3}
+  - {fileID: 21300000, guid: 7f941daf0561b14499b3422e34c74f42, type: 3}
+  - {fileID: 21300000, guid: 309f7fafc6572994883c89071acde8c1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - __killing_contraption_5_move_extending_and_retracting_015
+  - __killing_contraption_5_move_extending_and_retracting_005
+  - __killing_contraption_5_move_extending_and_retracting_006
+  - __killing_contraption_5_move_spikes_extended_007
+  - steam_cloud
+  - __killing_contraption_5_move_spikes_extended_002
+  - machine_explode_07
+  - cog_1
+  - toot_handle
+  - tooter_cord
+  - piston
+  - front_wheel
+  - __killing_contraption_5_move_extending_and_retracting_002
+  - tooter
+  - boiler
+  - __killing_contraption_5_move_spikes_extended_008
+  - back_wheel
+  - machine_explode_04
+  - __killing_contraption_5_move_extending_and_retracting_001
+  - __killing_contraption_5_move_extending_and_retracting_011
+  - wood_1
+  - __killing_contraption_5_move_extending_and_retracting_000
+  - __killing_contraption_5_move_spikes_extended_004
+  - __killing_contraption_5_move_extending_and_retracting_010
+  - wood_lever
+  - __killing_contraption_5_move_extending_and_retracting_004
+  - __killing_contraption_5_move_spikes_extended_003
+  - __killing_contraption_5_move_spikes_extended_001
+  - __killing_contraption_5_move_spikes_extended_009
+  - __killing_contraption_5_move_extending_and_retracting_009
+  - __killing_contraption_5_move_extending_and_retracting_014
+  - wood_2
+  - __killing_contraption_5_move_extending_and_retracting_000 1
+  - __killing_contraption_5_move_extending_and_retracting_012
+  - __killing_contraption_5_move_spikes_extended_006
+  - __killing_contraption_5_move_extending_and_retracting_013
+  - wheel_bar
+  - machine_explode_02
+  - steam_jet
+  - __killing_contraption_5_move_extending_and_retracting_003
+  - machine_explode_05
+  - machine_explode_08
+  - __killing_contraption_5_move_extending_and_retracting_008
+  - __killing_contraption_5_move_spikes_extended_010
+  - spikes
+  - __killing_contraption_5_move_spikes_extended_012
+  - __killing_contraption_5_move_spikes_extended_000
+  - machine_explode_06
+  - cylinder
+  - machine_explode_01
+  - funnel
+  - machine_explode_03
+  - __killing_contraption_5_move_extending_and_retracting_007
+  - __killing_contraption_5_move_spikes_extended_011
+  - __killing_contraption_5_move_spikes_extended_005
+  - chassis
+  - guide
+  m_RenderDataMap: {}
+  m_Tag: Steam Contraption Atlas
+  m_IsVariant: 0

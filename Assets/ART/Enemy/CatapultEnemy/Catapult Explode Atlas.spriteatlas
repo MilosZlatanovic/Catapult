@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Catapult Explode Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d85bf7b6eb3672c48bcca03689289cfc, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 86da8842a6fc4064f91c902b7098a55b, type: 3}
+  - {fileID: 21300000, guid: bdf377c2cd3eb5f4c87b8138543455e9, type: 3}
+  - {fileID: 21300000, guid: bd8531c7bb8413140a185e0ea9ad1390, type: 3}
+  - {fileID: 21300000, guid: 7e226cc93a79bf648928d9fabd12fde7, type: 3}
+  - {fileID: 21300000, guid: 86c8942ad373b974dbcbb445e6b911c3, type: 3}
+  - {fileID: 21300000, guid: ea8893fcb95bcfe42b4d20140551ecd0, type: 3}
+  - {fileID: 21300000, guid: 55f874feb03780e4e973dbbb501f2e06, type: 3}
+  - {fileID: 21300000, guid: cd6c9cfe5d684cd488ab8035c541c0b5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - machine_explode_08
+  - machine_explode_06
+  - machine_explode_04
+  - machine_explode_01
+  - machine_explode_07
+  - machine_explode_03
+  - machine_explode_05
+  - machine_explode_02
+  m_RenderDataMap: {}
+  m_Tag: Catapult Explode Atlas
+  m_IsVariant: 0

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: abdc5c2f1df342445a0dc72cbd08f895
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _rock: {fileID: 857293151527632699, guid: 1796ce3787e0b2e4b811b9c1351b5c10, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

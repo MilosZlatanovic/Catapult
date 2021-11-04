@@ -1,0 +1,645 @@
+fileFormatVersion: 2
+guid: 43fa081eef48e804bb1494e8d3361057
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Scenery_0
+  - first:
+      213: 21300002
+    second: Scenery_1
+  - first:
+      213: 21300004
+    second: Scenery_2
+  - first:
+      213: 21300006
+    second: Scenery_3
+  - first:
+      213: 21300008
+    second: Scenery_4
+  - first:
+      213: 21300010
+    second: Scenery_5
+  - first:
+      213: 21300012
+    second: Scenery_6
+  - first:
+      213: 21300014
+    second: Scenery_7
+  - first:
+      213: 21300016
+    second: Scenery_8
+  - first:
+      213: 21300018
+    second: Scenery_9
+  - first:
+      213: 21300020
+    second: Scenery_10
+  - first:
+      213: 21300022
+    second: Scenery_11
+  - first:
+      213: 21300024
+    second: Scenery_12
+  - first:
+      213: 21300026
+    second: Scenery_13
+  - first:
+      213: 21300028
+    second: Scenery_14
+  - first:
+      213: 21300030
+    second: Scenery_15
+  - first:
+      213: 21300032
+    second: Scenery_16
+  - first:
+      213: 21300034
+    second: Scenery_17
+  - first:
+      213: 21300036
+    second: Scenery_18
+  - first:
+      213: 1436459187073071794
+    second: Scenery_0
+  - first:
+      213: 4952493192922668218
+    second: Scenery_1
+  - first:
+      213: -5682900327294240983
+    second: Scenery_2
+  - first:
+      213: 2514131775105911306
+    second: Scenery_3
+  - first:
+      213: -5885791224262380789
+    second: Scenery_4
+  - first:
+      213: -1768971823409969204
+    second: Scenery_5
+  - first:
+      213: -4310474760852792895
+    second: Scenery_6
+  - first:
+      213: -4376301620443058219
+    second: Scenery_7
+  - first:
+      213: -4022455927812117467
+    second: Scenery_8
+  - first:
+      213: -3121163763066016508
+    second: Scenery_9
+  - first:
+      213: 3450567310680228544
+    second: Scenery_10
+  - first:
+      213: -871152722413154951
+    second: Scenery_11
+  - first:
+      213: 891377433634887951
+    second: Scenery_12
+  - first:
+      213: 8286506543576305601
+    second: Scenery_13
+  - first:
+      213: -853634873686467666
+    second: Scenery_14
+  - first:
+      213: -279428211594927491
+    second: Scenery_15
+  - first:
+      213: -3385483476609860969
+    second: Scenery_16
+  - first:
+      213: -8428860945259701336
+    second: Scenery_17
+  - first:
+      213: -2790160391569043749
+    second: Scenery_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 16
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scenery_0
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 665
+        width: 404
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba36db15045fe310800000000000000
+      internalID: 1436459187073071794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 725
+        width: 281
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc12bcc15acab440800000000000000
+      internalID: 4952493192922668218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_2
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 717
+        width: 731
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927fca9f2484221b0800000000000000
+      internalID: -5682900327294240983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_3
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 703
+        width: 66
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ac5bd678df3e220800000000000000
+      internalID: 2514131775105911306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_4
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 707
+        width: 66
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03bab7d018715ea0800000000000000
+      internalID: -5885791224262380789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_5
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 379
+        width: 486
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc749ffbf795377e0800000000000000
+      internalID: -1768971823409969204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_6
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 363
+        width: 154
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9151afa0e1e24c0800000000000000
+      internalID: -4310474760852792895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_7
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 357
+        width: 294
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df6683ecd04443c0800000000000000
+      internalID: -4376301620443058219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_8
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 355
+        width: 120
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c281245ad5d28c0800000000000000
+      internalID: -4022455927812117467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_9
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 359
+        width: 119
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40de0a818166fa4d0800000000000000
+      internalID: -3121163763066016508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 103
+        width: 604
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c28baaefa0e2ef20800000000000000
+      internalID: 3450567310680228544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_11
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 103
+        width: 270
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d037be63b09e3f0800000000000000
+      internalID: -871152722413154951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_12
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 193
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f095b9c9d0fce5c00800000000000000
+      internalID: 891377433634887951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_13
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 107
+        width: 272
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfc0de2cc59ff270800000000000000
+      internalID: 8286506543576305601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_14
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 223
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab580aea974724f0800000000000000
+      internalID: -853634873686467666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_15
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 159
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7269a3a5854f1cf0800000000000000
+      internalID: -279428211594927491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_16
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 153
+        width: 94
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79af6bf07b85401d0800000000000000
+      internalID: -3385483476609860969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_17
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 107
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abd1a8d0aba60b80800000000000000
+      internalID: -8428860945259701336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scenery_18
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 116
+        width: 222
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde892228eb5749d0800000000000000
+      internalID: -2790160391569043749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 680774bf458fcfb449864d2f5244b7dc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
